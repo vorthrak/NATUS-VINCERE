@@ -23,7 +23,7 @@ Web ini dibuat dengan menggunakan HTML5, CSS3 (SCSS), dan JavaScript untuk menci
 
 1. **Clone repository ini ke dalam folder lokal**:
     ```bash
-    git clone https://github.com/vorthrak/natus-vincere.git
+    git clone https://github.com/vorthrak/NATUS-VINCERE.git
     ```
 
 2. **Buka file `index.html` di browser** untuk melihat hasilnya.
